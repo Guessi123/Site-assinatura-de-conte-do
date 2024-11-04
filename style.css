@@ -3,4 +3,15 @@
     --cinza-secundario: #C0C0C0;
     --botao-azual: #167BF7;
     --cor-de-fundo: #00030C;
+ } 
+
+ body {
+    background-color: var(--cor-de-fundo);
+    color: var(--braco-principal);
+
+ }
+
+*{
+    margin: 0;
+    padding: 0;
 }
